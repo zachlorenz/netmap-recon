@@ -1,0 +1,18 @@
+"""
+# python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# data
+*.pcap
+*.pcapng
+*.cap
+
+# outputs
+*.png
+*.csv
+*.json
+"""
